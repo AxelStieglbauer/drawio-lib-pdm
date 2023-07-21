@@ -41,7 +41,7 @@ Klicken Sie einfach auf folgende URL:
 
 <https://app.diagrams.net/?clibs=Uhttps://raw.githubusercontent.com/AxelStieglbauer/drawio-lib-pdm/main/Netzplan.xml>
 
-Daraufhin öffnet sich die draw.io Web App mit der EPK-Bibliothek.
+Daraufhin öffnet sich die draw.io Web App mit der Netzplan-Bibliothek.
 
 ### Installation
 
