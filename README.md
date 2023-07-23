@@ -8,7 +8,7 @@ Library file for draw.io to create models according to the [precedence diagram m
 
 Just click on this URL:
 
-<https://app.diagrams.net/?clibs=Uhttps://raw.githubusercontent.com/AxelStieglbauer/drawio-lib-pdm/main/ProjectNetwork.xml>
+<https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/AxelStieglbauer/drawio-lib-pdm/main/ProjectNetwork.xml>
 
 The draw.io web app will start with the PDM library preloaded.
 
@@ -39,7 +39,7 @@ Bibliotheksdatei für draw.io um [Netzpläne (Projektmanagement)](https://de.wik
 
 Klicken Sie einfach auf folgende URL:
 
-<https://app.diagrams.net/?clibs=Uhttps://raw.githubusercontent.com/AxelStieglbauer/drawio-lib-pdm/main/Netzplan.xml>
+<https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/AxelStieglbauer/drawio-lib-pdm/main/Netzplan.xml>
 
 Daraufhin öffnet sich die draw.io Web App mit der Netzplan-Bibliothek.
 
