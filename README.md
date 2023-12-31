@@ -2,7 +2,9 @@
 
 ## 🇬🇧 🇺🇸 …
 
-Library file for draw.io to create models according to the [precedence diagram method (PDM)](https://en.wikipedia.org/wiki/Precedence_diagram_method) or a [project network](https://en.wikipedia.org/wiki/Project_network) diagram.
+Library file for draw.io to create models according to the
+[precedence diagram method (PDM)](https://en.wikipedia.org/wiki/Precedence_diagram_method)
+ or a [project network](https://en.wikipedia.org/wiki/Project_network) diagram.
 
 ### Quickstart
 
@@ -21,7 +23,8 @@ The draw.io web app will start with the PDM library preloaded.
 
 (Or see: <https://www.drawio.com/blog/custom-libraries#open-a-custom-shape-library>)
 
-The imported library `ProjectNetwork` will show up among the other shape libraries on the left bar.
+The imported library `ProjectNetwork`
+will show up among the other shape libraries on the left bar.
 
 ### Usage
 
@@ -29,11 +32,15 @@ Just drag the shapes you want to use from the library onto the drawing area.
 
 ### Feedback welcome
 
-I've created this library with the "works for me" approach. If you have any suggestions, ideas, etc. that will make it work for you as well, please let me know. I'll see what I can do.
+I've created this library with the "works for me" approach.
+If you have any suggestions, ideas, etc. that will make it work for you as well,
+please let me know. I'll see what I can do.
 
 ## 🇩🇪 🇦🇹 🇨🇭 …
 
-Bibliotheksdatei für draw.io um [Netzpläne (Projektmanagement)](https://de.wikipedia.org/wiki/Netzplantechnik) zu modellieren.
+Bibliotheksdatei für draw.io um
+[Netzpläne (Projektmanagement)](https://de.wikipedia.org/wiki/Netzplantechnik)
+zu modellieren.
 
 ### Schnellstart
 
@@ -52,12 +59,16 @@ Daraufhin öffnet sich die draw.io Web App mit der Netzplan-Bibliothek.
 
 Oder siehe: <https://www.drawio.com/blog/custom-libraries#open-a-custom-shape-library>
 
-Die importierte Bibliothek `Netzplan` wird bei den andern Formenbibliotheken auf der linken Leiste angezeigt.  
+Die importierte Bibliothek `Netzplan` wird bei den andern Formenbibliotheken
+auf der linken Leiste angezeigt.
 
 ### Verwendung
 
-Einfach die Formen, die verwendet werden Sollen aus der Bibliothek auf die Zeichenfläche ziehen.
+Einfach die Formen, die verwendet werden Sollen,
+aus der Bibliothek auf die Zeichenfläche ziehen.
 
 ### Rückmeldungen erwünscht
 
-Ich habe diese Bibliothek nach dem „Funktioniert für mich“-Ansatz erstellt. Wenn Sie Vorschläge, Ideen, etc. haben, lassen Sie es mich wissen. Ich werde zusehen, was ich tun kann.
+Ich habe diese Bibliothek nach dem „Funktioniert für mich“-Ansatz erstellt.
+Wenn Sie Vorschläge, Ideen, etc. haben, lassen Sie es mich wissen.
+Ich werde zusehen, was ich tun kann.
